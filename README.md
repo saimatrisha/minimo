@@ -1,4 +1,4 @@
-# Minimo
+# minimo
 project
 
 Live Link:
